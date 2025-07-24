@@ -1,7 +1,6 @@
 
 """
 Arps Model Selector and Forecaster
-Author: [Your Name]
 Description:
     This script uses synthetic production data (time vs rate),
     fits Exponential, Harmonic, and Hyperbolic Arps decline models,
